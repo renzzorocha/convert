@@ -2,7 +2,7 @@
 
 <h2 id=sobre>📜 Sobre</h2>
 
-O projeto <strong>Convert</strong> é uma webpage simples desenvolvida em HTML/CSS/JS, que calcula taxa de câmbio (conversão de Real para Dolar, Euro e Libra).
+O projeto <strong>Convert</strong> é uma webpage simples desenvolvida em HTML/CSS/JS que realiza conversão de Real (R$) para Dolar, Euro e Libra.
 
 <h2 id=instalacao>💻 Instalação</h2>
 
